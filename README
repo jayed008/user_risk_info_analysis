@@ -1,0 +1,8 @@
+ResultS1: 2018年6月到12月实名的用户信息
+ResultS2: 有效订单
+ResultS3: 2018年下半年实名认证用户中存在订单的用户（有isRepay）
+ResultS4: 有订单但是没有还款信息的用户信息
+ResultS5: ResultS3与HoneyJarUserDataCol的联表（有isRepay）
+ResultS6: ResultS5经过处理后
+ResultS7: ResultS3与HoneyTongdunReportCol的联表（有isRepay）
+ResultS8: ResultS7经过处理后
